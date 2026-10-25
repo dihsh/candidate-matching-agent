@@ -38,3 +38,12 @@ htmlcov/
 Thumbs.db
 *.bak
 *.swp
+
+# Media & Videos
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wav
+*.mp3
