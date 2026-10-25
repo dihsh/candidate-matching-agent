@@ -1,0 +1,41 @@
+flowchart TD
+    %% Styling and Definitions
+    classDef startEnd fill:#1E293B,stroke:#38BDF8,stroke-width:2px,color:#F8FAFC,font-weight:bold;
+    classDef standardNode fill:#0F172A,stroke:#64748B,stroke-width:2px,color:#F1F5F9;
+    classDef toolNode fill:#1E1B4B,stroke:#818CF8,stroke-width:2px,color:#E0E7FF;
+    classDef decisionNode fill:#312E81,stroke:#C084FC,stroke-width:2px,color:#FAF5FF;
+    classDef successNode fill:#064E3B,stroke:#34D399,stroke-width:2px,color:#ECFDF5;
+
+    %% Workflow Nodes
+    StartNode(["🚀 START"]):::startEnd
+    ParseJD["📥 Node 1: Parse JD<br/><i>Validates & normalizes Job Description</i>"]:::standardNode
+    ExtractReq["🎯 Node 2: Extract Requirements<br/><b>Tool:</b> extract_requirements()<br/><i>Must-Haves vs Nice-to-Haves, Exp Target</i>"]:::toolNode
+    SearchResumes["🔍 Node 3: Search Resumes (Round 1)<br/><b>Tool:</b> RAG Search / TF-IDF Vector<br/><i>Screens Top 10 from 100 Resumes</i>"]:::toolNode
+    RankCandidates["📊 Node 4: Rank Candidates (Round 2 & 3)<br/><i>Deep Analysis, Strengths/Gaps,<br/>Hire/No-Hire Verdicts & Suggestions</i>"]:::standardNode
+    GenerateReport["📄 Node 5: Generate Report<br/><b>Tool:</b> save_screening_report()<br/><i>Saves full explainable Markdown dossier</i>"]:::standardNode
+    HumanFeedback{"🤝 Node 6: Human Feedback Loop<br/><i>Human Review & Refinement Gate</i>"}:::decisionNode
+    EndNode(["🏁 END (Shortlist Approved)"]):::successNode
+
+    %% Additional On-Demand Tools
+    subgraph OnDemandTools ["🛠️ Agent Auxiliary Tools"]
+        CompareTool["⚖️ compare_candidates(ids)<br/><i>Head-to-head matrix & narrative</i>"]:::toolNode
+        QuestionsTool["❓ generate_interview_questions(id)<br/><i>Tailored technical & behavioral questions</i>"]:::toolNode
+        FileSysTool["📁 Filesystem Tools<br/><i>read_resume, list_resumes, save_report</i>"]:::toolNode
+    end
+
+    %% Workflow Edges
+    StartNode --> ParseJD
+    ParseJD --> ExtractReq
+    ExtractReq --> SearchResumes
+    SearchResumes --> RankCandidates
+    RankCandidates --> GenerateReport
+    GenerateReport --> HumanFeedback
+
+    %% Iterative Refinement Feedback Loop
+    HumanFeedback -- "Criteria Adjusted / Re-rank" --> ExtractReq
+    HumanFeedback -- "Shortlist Approved / Finished" --> EndNode
+
+    %% Auxiliary Connections
+    HumanFeedback -.-> CompareTool
+    HumanFeedback -.-> QuestionsTool
+    RankCandidates -.-> FileSysTool

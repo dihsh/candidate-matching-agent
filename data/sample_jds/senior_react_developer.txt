@@ -1,0 +1,20 @@
+Job Title: Senior React Developer
+Location: Remote (US)
+Experience Required: 3+ years (Senior: 5+ years preferred)
+
+About the Role:
+We are looking for a Senior React Developer to join our core product team. You will be responsible for architecting and building high-performance, user-friendly frontend web applications, leading frontend modernization efforts, and mentoring other engineers.
+
+Must-Have Requirements:
+- At least 3+ years of professional software development experience with strong focus on React.
+- Deep expertise in React (v17/18), modern JavaScript/TypeScript, and state management (Redux, Zustand, or Context API).
+- Experience building responsive, accessible, and high-performance web user interfaces.
+- Familiarity with modern frontend tooling, automated testing (Jest, React Testing Library), and REST / GraphQL APIs.
+- Strong team collaboration, communication, and code review practices.
+
+Nice-to-Have Requirements:
+- 5+ years of software engineering experience.
+- Experience with Next.js, Server-Side Rendering (SSR), or static site generation.
+- Hands-on cloud experience with AWS (S3, CloudFront, Lambda) and CI/CD pipelines.
+- Experience with micro-frontends and design system component libraries.
+- Proven track record mentoring junior and mid-level developers.

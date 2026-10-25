@@ -1,0 +1,14 @@
+Job Title: Full Stack Cloud Engineer
+Location: Remote or Hybrid
+Experience Required: 4+ years
+
+Must-Have Requirements:
+- 4+ years full stack development experience with React and Node.js or Python.
+- Proven experience with AWS cloud infrastructure (ECS, Lambda, S3, RDS).
+- Strong database skills with PostgreSQL or MySQL and Docker containerization.
+- Experience building and consuming RESTful and GraphQL APIs.
+
+Nice-to-Have Requirements:
+- Experience with Kubernetes and Terraform infrastructure-as-code.
+- Knowledge of Redis caching and message queues (Kafka or RabbitMQ).
+- Microservices architectural design patterns.

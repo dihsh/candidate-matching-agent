@@ -1,0 +1,4229 @@
+[
+  {
+    "id": "CAND-001",
+    "name": "John Doe",
+    "title": "Senior Frontend Engineer",
+    "years_experience": 6.5,
+    "location": "San Francisco, CA (Remote)",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Redux",
+      "GraphQL",
+      "Tailwind CSS",
+      "Jest",
+      "CI/CD",
+      "AWS",
+      "Performance Optimization"
+    ],
+    "education": "B.S. in Computer Science, University of California, Berkeley",
+    "summary": "Accomplished Senior Frontend Engineer with 6.5 years of experience architecting large-scale React micro-frontends, high-throughput web apps, and design systems. Led a team of 5 engineers, cut page load times by 42%, and maintained 95%+ test coverage.",
+    "experience": [
+      {
+        "company": "ScalePulse Tech",
+        "role": "Lead Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Engineered enterprise SaaS dashboard using React 18, TypeScript, and Next.js handling 1.2M daily active users.",
+          "Architected server-side rendering (SSR) and Edge caching strategy reducing Time to Interactive by 42%.",
+          "Mentored 5 junior/mid frontend engineers and drove modern React patterns and automated Jest/Playwright testing."
+        ]
+      },
+      {
+        "company": "Veloce Systems",
+        "role": "Senior Frontend Developer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Migrated monolithic frontend into modular React micro-frontends with Redux Toolkit and GraphQL Apollo Client.",
+          "Integrated AWS CloudFront CDN and automated GitHub Actions CI/CD pipelines."
+        ]
+      }
+    ],
+    "projects": [
+      "React Design System Component Library adopted across 8 engineering squads.",
+      "Open-source React performance profiler with 1.4k GitHub stars."
+    ]
+  },
+  {
+    "id": "CAND-002",
+    "name": "Jane Smith",
+    "title": "Frontend UI Developer",
+    "years_experience": 3.5,
+    "location": "Austin, TX (Hybrid)",
+    "skills": [
+      "React",
+      "JavaScript (ES6+)",
+      "HTML5",
+      "CSS3/SASS",
+      "Bootstrap",
+      "REST APIs",
+      "Git",
+      "Webpack"
+    ],
+    "education": "B.A. in Digital Media & Web Design, University of Texas at Austin",
+    "summary": "Creative and diligent Frontend UI Developer with 3.5 years of experience building responsive, accessible web interfaces using React and modern CSS. Proven ability to translate Figma mockups into pixel-perfect components.",
+    "experience": [
+      {
+        "company": "PixelCraft Studios",
+        "role": "Frontend Developer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Developed responsive client portals using React and CSS Modules for mid-sized enterprise clients.",
+          "Collaborated closely with UX designers to implement WCAG 2.1 AA accessible UI elements.",
+          "Consumed RESTful endpoints and managed state using React Hooks and Context API."
+        ]
+      },
+      {
+        "company": "Hyperlink Digital",
+        "role": "Junior Web Developer",
+        "duration": "2020 - 2022",
+        "highlights": [
+          "Built marketing landing pages and interactive forms using HTML5, SASS, and vanilla JavaScript.",
+          "Assisted in refactoring legacy jQuery widgets into reusable React components."
+        ]
+      }
+    ],
+    "projects": [
+      "E-commerce product catalog with dynamic filtering and shopping cart in React.",
+      "Personal UI component playground."
+    ]
+  },
+  {
+    "id": "CAND-003",
+    "name": "Alex Rivera",
+    "title": "Senior Full Stack Engineer",
+    "years_experience": 5.0,
+    "location": "New York, NY (Remote)",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "AWS (S3, Lambda, ECS)",
+      "Docker",
+      "REST APIs",
+      "Redis"
+    ],
+    "education": "B.S. in Software Engineering, Rochester Institute of Technology",
+    "summary": "Versatile Full Stack Engineer with 5 years building scalable web applications. Strong expertise in React frontend coupled with robust Node.js and AWS cloud infrastructure.",
+    "experience": [
+      {
+        "company": "CloudForge Labs",
+        "role": "Senior Full Stack Developer",
+        "duration": "2021 - Present",
+        "highlights": [
+          "Built real-time collaboration canvas using React, WebSockets, and Node.js microservices deployed on AWS ECS.",
+          "Designed relational database schemas in PostgreSQL with Redis caching layer, handling 5k req/sec.",
+          "Implemented end-to-end OAuth2 and JWT authentication flows."
+        ]
+      }
+    ],
+    "projects": [
+      "Full-stack telemetry monitoring tool with React dashboard and Go/Node.js telemetry collector."
+    ]
+  },
+  {
+    "id": "CAND-004",
+    "name": "Priya Sharma",
+    "title": "Principal Cloud & Frontend Architect",
+    "years_experience": 8.0,
+    "location": "Seattle, WA (Remote)",
+    "skills": [
+      "React",
+      "TypeScript",
+      "AWS",
+      "Kubernetes",
+      "GraphQL",
+      "Next.js",
+      "Terraform",
+      "System Architecture",
+      "Kafka"
+    ],
+    "education": "M.S. in Computer Science, University of Washington",
+    "summary": "Seasoned Lead Cloud & Frontend Architect with 8 years architecting mission-critical cloud-native web systems. Deep mastery of AWS cloud governance, React microfrontends, and distributed resilience.",
+    "experience": [
+      {
+        "company": "Apex Cloud Systems",
+        "role": "Principal Solutions Engineer",
+        "duration": "2020 - Present",
+        "highlights": [
+          "Architected globally distributed cloud platform on AWS utilizing CloudFront, API Gateway, and React micro-frontends.",
+          "Reduced infrastructure costs by 35% through containerization and AWS Graviton migrations.",
+          "Formulated enterprise engineering standards and mentored 20+ software engineers across 4 squads."
+        ]
+      }
+    ],
+    "projects": [
+      "Multi-tenant AWS infrastructure blueprint with automated Terraform provisioning and Next.js frontend."
+    ]
+  },
+  {
+    "id": "CAND-005",
+    "name": "Marcus Vance",
+    "title": "Junior Frontend Developer (Borderline Candidate)",
+    "years_experience": 2.2,
+    "location": "Denver, CO",
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Git"
+    ],
+    "education": "Certificate in Full Stack Web Development, Flatiron School",
+    "summary": "Enthusiastic junior frontend developer with 2.2 years of professional experience building web pages with React. Fast learner eager to bridge experience gaps in TypeScript and cloud systems.",
+    "experience": [
+      {
+        "company": "MileHigh Digital",
+        "role": "Junior Frontend Developer",
+        "duration": "2023 - Present",
+        "highlights": [
+          "Built 15+ marketing landing pages in React and Tailwind CSS.",
+          "Assisted in fixing bug tickets in React customer support dashboard."
+        ]
+      }
+    ],
+    "projects": [
+      "Weather tracking progressive web app in React."
+    ]
+  },
+  {
+    "id": "CAND-006",
+    "name": "Rebecca Cox",
+    "title": "Staff UI Architect",
+    "years_experience": 3.7,
+    "location": "New York, NY",
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "REST APIs",
+      "Netlify"
+    ],
+    "education": "M.S. in Computer Science, Stanford University",
+    "summary": "Results-oriented Staff UI Architect with 3.7 years of industry experience specializing in React, JavaScript, HTML5. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Acrobyte Data",
+        "role": "Staff UI Architect",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and JavaScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Finova Digital",
+        "role": "Associate Staff UI Architect",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with HTML5.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 22%.",
+      "Engineered microservices toolset integrating JavaScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-007",
+    "name": "Madeline Sanchez",
+    "title": "Senior Frontend Engineer",
+    "years_experience": 7.0,
+    "location": "Boston, MA",
+    "skills": [
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "SCSS",
+      "Jest",
+      "Firebase"
+    ],
+    "education": "B.S. in Software Engineering, New York University",
+    "summary": "Results-oriented Senior Frontend Engineer with 7.0 years of industry experience specializing in Angular, TypeScript, RxJS. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "BlueHarbor Software",
+        "role": "Senior Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Angular and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Kinetic Systems",
+        "role": "Associate Senior Frontend Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with RxJS.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Angular architecture reducing end-to-end latency by 23%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-008",
+    "name": "Brandon Gutierrez",
+    "title": "Data Engineer",
+    "years_experience": 2.7,
+    "location": "Chicago, IL",
+    "skills": [
+      "Python",
+      "Spark",
+      "SQL",
+      "Airflow",
+      "Snowflake",
+      "AWS",
+      "Docker"
+    ],
+    "education": "M.S. in Computer Science, New York University",
+    "summary": "Results-oriented Data Engineer with 2.7 years of industry experience specializing in Python, Spark, SQL. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "StrataCore Inc.",
+        "role": "Data Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and Spark.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "CipherWave Networks",
+        "role": "Associate Data Engineer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with SQL.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 18%.",
+      "Engineered microservices toolset integrating Spark with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-009",
+    "name": "Jordan Chen",
+    "title": "Software Engineer - Web Systems",
+    "years_experience": 7.3,
+    "location": "San Francisco, CA",
+    "skills": [
+      "Angular",
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "Docker",
+      "AWS"
+    ],
+    "education": "B.S. in Information Technology, MIT",
+    "summary": "Results-oriented Software Engineer - Web Systems with 7.3 years of industry experience specializing in Angular, Java, Spring Boot. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Skyline Analytics",
+        "role": "Software Engineer - Web Systems",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Angular and Java.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Optima Health Tech",
+        "role": "Associate Software Engineer - Web Systems",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Spring Boot.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Angular architecture reducing end-to-end latency by 42%.",
+      "Engineered microservices toolset integrating Java with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-010",
+    "name": "Anita Miller",
+    "title": "Staff UI Architect",
+    "years_experience": 3.1,
+    "location": "New York, NY",
+    "skills": [
+      "Vue.js",
+      "JavaScript",
+      "Nuxt",
+      "Vuex",
+      "CSS3",
+      "Docker"
+    ],
+    "education": "B.S. in Software Engineering, Carnegie Mellon University",
+    "summary": "Results-oriented Staff UI Architect with 3.1 years of industry experience specializing in Vue.js, JavaScript, Nuxt. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "StrataCore Inc.",
+        "role": "Staff UI Architect",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Vue.js and JavaScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "BlueHarbor Software",
+        "role": "Associate Staff UI Architect",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with Nuxt.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Vue.js architecture reducing end-to-end latency by 23%.",
+      "Engineered microservices toolset integrating JavaScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-011",
+    "name": "Rebecca Walker",
+    "title": "Software Engineer - Web Systems",
+    "years_experience": 5.3,
+    "location": "Chicago, IL",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "education": "M.S. in Information Technology, MIT",
+    "summary": "Results-oriented Software Engineer - Web Systems with 5.3 years of industry experience specializing in React, Node.js, TypeScript. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Optima Health Tech",
+        "role": "Software Engineer - Web Systems",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Node.js.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Associate Software Engineer - Web Systems",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with TypeScript.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 43%.",
+      "Engineered microservices toolset integrating Node.js with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-012",
+    "name": "Steven Kim",
+    "title": "Web Applications Engineer",
+    "years_experience": 4.8,
+    "location": "Austin, TX",
+    "skills": [
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "SCSS",
+      "Jest",
+      "Docker"
+    ],
+    "education": "B.S. in Information Technology, New York University",
+    "summary": "Results-oriented Web Applications Engineer with 4.8 years of industry experience specializing in Angular, TypeScript, RxJS. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "CipherWave Networks",
+        "role": "Web Applications Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Angular and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "BlueHarbor Software",
+        "role": "Associate Web Applications Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with RxJS.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Angular architecture reducing end-to-end latency by 43%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-013",
+    "name": "Nicole Morales",
+    "title": "Full Stack Engineer",
+    "years_experience": 6.6,
+    "location": "Austin, TX",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "education": "B.S. in Data Science, Purdue University",
+    "summary": "Results-oriented Full Stack Engineer with 6.6 years of industry experience specializing in React, Node.js, TypeScript. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Acrobyte Data",
+        "role": "Full Stack Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Node.js.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "StrataCore Inc.",
+        "role": "Associate Full Stack Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with TypeScript.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 27%.",
+      "Engineered microservices toolset integrating Node.js with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-014",
+    "name": "Olivia Parker",
+    "title": "Software Engineer - Web Systems",
+    "years_experience": 9.0,
+    "location": "Boston, MA",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "Redis"
+    ],
+    "education": "M.S. in Computer Science, Georgia Tech",
+    "summary": "Results-oriented Software Engineer - Web Systems with 9.0 years of industry experience specializing in React, Node.js, TypeScript. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "BlueHarbor Software",
+        "role": "Software Engineer - Web Systems",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Node.js.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Vertex Cloud Solutions",
+        "role": "Associate Software Engineer - Web Systems",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with TypeScript.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 29%.",
+      "Engineered microservices toolset integrating Node.js with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-015",
+    "name": "Aaron White",
+    "title": "Site Reliability Engineer (SRE)",
+    "years_experience": 11.7,
+    "location": "Seattle, WA",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Python"
+    ],
+    "education": "B.S. in Information Technology, Carnegie Mellon University",
+    "summary": "Results-oriented Site Reliability Engineer (SRE) with 11.7 years of industry experience specializing in AWS, Terraform, Kubernetes. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "InnoVibe Labs",
+        "role": "Site Reliability Engineer (SRE)",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing AWS and Terraform.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Skyline Analytics",
+        "role": "Associate Site Reliability Engineer (SRE)",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Kubernetes.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable AWS architecture reducing end-to-end latency by 44%.",
+      "Engineered microservices toolset integrating Terraform with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-016",
+    "name": "Matthew Anderson",
+    "title": "Senior Full Stack Developer",
+    "years_experience": 3.1,
+    "location": "Seattle, WA",
+    "skills": [
+      "Angular",
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "Docker",
+      "AWS"
+    ],
+    "education": "B.S. in Computer Science, New York University",
+    "summary": "Results-oriented Senior Full Stack Developer with 3.1 years of industry experience specializing in Angular, Java, Spring Boot. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "StrataCore Inc.",
+        "role": "Senior Full Stack Developer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Angular and Java.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Acrobyte Data",
+        "role": "Associate Senior Full Stack Developer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with Spring Boot.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Angular architecture reducing end-to-end latency by 39%.",
+      "Engineered microservices toolset integrating Java with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-017",
+    "name": "Megan Zhang",
+    "title": "Web Applications Engineer",
+    "years_experience": 8.6,
+    "location": "Seattle, WA",
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "REST APIs",
+      "Netlify",
+      "Firebase"
+    ],
+    "education": "B.S. in Information Technology, University of Illinois Urbana-Champaign",
+    "summary": "Results-oriented Web Applications Engineer with 8.6 years of industry experience specializing in React, JavaScript, HTML5. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Web Applications Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and JavaScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "PulsePoint Media",
+        "role": "Associate Web Applications Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with HTML5.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 26%.",
+      "Engineered microservices toolset integrating JavaScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-018",
+    "name": "Kevin Ramirez",
+    "title": "Full Stack Engineer",
+    "years_experience": 4.6,
+    "location": "Seattle, WA",
+    "skills": [
+      "Angular",
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "Docker",
+      "Redis"
+    ],
+    "education": "B.S. in Computer Science, MIT",
+    "summary": "Results-oriented Full Stack Engineer with 4.6 years of industry experience specializing in Angular, Java, Spring Boot. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "PulsePoint Media",
+        "role": "Full Stack Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Angular and Java.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Associate Full Stack Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Spring Boot.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Angular architecture reducing end-to-end latency by 16%.",
+      "Engineered microservices toolset integrating Java with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-019",
+    "name": "Derek Campbell",
+    "title": "Data Engineer",
+    "years_experience": 2.5,
+    "location": "Austin, TX",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "LangChain",
+      "Vector DBs",
+      "FastAPI",
+      "Docker",
+      "Snowflake",
+      "SageMaker"
+    ],
+    "education": "M.S. in Software Engineering, University of Michigan",
+    "summary": "Results-oriented Data Engineer with 2.5 years of industry experience specializing in Python, PyTorch, LangChain. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Zenith Financial Technologies",
+        "role": "Data Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and PyTorch.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "BlueHarbor Software",
+        "role": "Associate Data Engineer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with LangChain.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 21%.",
+      "Engineered microservices toolset integrating PyTorch with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-020",
+    "name": "Anita Collins",
+    "title": "Senior Distributed Systems Engineer",
+    "years_experience": 6.1,
+    "location": "San Francisco, CA",
+    "skills": [
+      "Node.js",
+      "Express",
+      "TypeScript",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "education": "M.S. in Information Technology, MIT",
+    "summary": "Results-oriented Senior Distributed Systems Engineer with 6.1 years of industry experience specializing in Node.js, Express, TypeScript. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Optima Health Tech",
+        "role": "Senior Distributed Systems Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Node.js and Express.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Finova Digital",
+        "role": "Associate Senior Distributed Systems Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with TypeScript.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Node.js architecture reducing end-to-end latency by 21%.",
+      "Engineered microservices toolset integrating Express with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-021",
+    "name": "Megan Nguyen",
+    "title": "Senior Frontend Engineer",
+    "years_experience": 3.9,
+    "location": "New York, NY",
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "REST APIs",
+      "Firebase"
+    ],
+    "education": "B.S. in Computer Science, MIT",
+    "summary": "Results-oriented Senior Frontend Engineer with 3.9 years of industry experience specializing in React, JavaScript, HTML5. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Zenith Financial Technologies",
+        "role": "Senior Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and JavaScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Optima Health Tech",
+        "role": "Associate Senior Frontend Engineer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with HTML5.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 20%.",
+      "Engineered microservices toolset integrating JavaScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-022",
+    "name": "Karen Perry",
+    "title": "Senior Full Stack Developer",
+    "years_experience": 9.3,
+    "location": "Boston, MA",
+    "skills": [
+      "React",
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "AWS",
+      "CI/CD"
+    ],
+    "education": "M.S. in Information Technology, University of Illinois Urbana-Champaign",
+    "summary": "Results-oriented Senior Full Stack Developer with 9.3 years of industry experience specializing in React, Python, FastAPI. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "PulsePoint Media",
+        "role": "Senior Full Stack Developer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Python.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Zenith Financial Technologies",
+        "role": "Associate Senior Full Stack Developer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with FastAPI.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 40%.",
+      "Engineered microservices toolset integrating Python with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-023",
+    "name": "Michelle Thomas",
+    "title": "Backend Engineer",
+    "years_experience": 4.1,
+    "location": "San Francisco, CA",
+    "skills": [
+      "Go",
+      "gRPC",
+      "Docker",
+      "Kubernetes",
+      "PostgreSQL",
+      "Prometheus"
+    ],
+    "education": "M.S. in Computer Science, Stanford University",
+    "summary": "Results-oriented Backend Engineer with 4.1 years of industry experience specializing in Go, gRPC, Docker. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "CipherWave Networks",
+        "role": "Backend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Go and gRPC.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "StrataCore Inc.",
+        "role": "Associate Backend Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Docker.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Go architecture reducing end-to-end latency by 31%.",
+      "Engineered microservices toolset integrating gRPC with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-024",
+    "name": "Matthew Flores",
+    "title": "Frontend Engineer",
+    "years_experience": 8.0,
+    "location": "Remote - US",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Redux",
+      "Tailwind CSS",
+      "Vercel"
+    ],
+    "education": "B.S. in Software Engineering, Purdue University",
+    "summary": "Results-oriented Frontend Engineer with 8.0 years of industry experience specializing in React, TypeScript, Next.js. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "CipherWave Networks",
+        "role": "Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Nexora Tech",
+        "role": "Associate Frontend Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Next.js.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 34%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-025",
+    "name": "Andrew Morris",
+    "title": "API Platform Engineer",
+    "years_experience": 6.9,
+    "location": "Seattle, WA",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Kafka",
+      "AWS",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Data Science, Carnegie Mellon University",
+    "summary": "Results-oriented API Platform Engineer with 6.9 years of industry experience specializing in Java, Spring Boot, Microservices. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "OmniPlatform Systems",
+        "role": "API Platform Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Java and Spring Boot.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "PulsePoint Media",
+        "role": "Associate API Platform Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Microservices.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Java architecture reducing end-to-end latency by 24%.",
+      "Engineered microservices toolset integrating Spring Boot with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-026",
+    "name": "Kyle Kim",
+    "title": "Machine Learning Engineer",
+    "years_experience": 2.1,
+    "location": "Seattle, WA",
+    "skills": [
+      "Python",
+      "Scikit-Learn",
+      "Pandas",
+      "NLP",
+      "MLflow",
+      "AWS S3"
+    ],
+    "education": "M.S. in Software Engineering, University of Texas at Austin",
+    "summary": "Results-oriented Machine Learning Engineer with 2.1 years of industry experience specializing in Python, Scikit-Learn, Pandas. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Acrobyte Data",
+        "role": "Machine Learning Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and Scikit-Learn.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Finova Digital",
+        "role": "Associate Machine Learning Engineer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with Pandas.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 26%.",
+      "Engineered microservices toolset integrating Scikit-Learn with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-027",
+    "name": "Grace Flores",
+    "title": "Software Engineer - Web Systems",
+    "years_experience": 7.9,
+    "location": "Boston, MA",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "education": "B.S. in Computer Science, New York University",
+    "summary": "Results-oriented Software Engineer - Web Systems with 7.9 years of industry experience specializing in React, Node.js, TypeScript. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "InnoVibe Labs",
+        "role": "Software Engineer - Web Systems",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Node.js.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Vertex Cloud Solutions",
+        "role": "Associate Software Engineer - Web Systems",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with TypeScript.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 23%.",
+      "Engineered microservices toolset integrating Node.js with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-028",
+    "name": "Grace Sanchez",
+    "title": "Staff UI Architect",
+    "years_experience": 3.4,
+    "location": "New York, NY",
+    "skills": [
+      "Vue.js",
+      "JavaScript",
+      "Nuxt",
+      "Vuex",
+      "CSS3",
+      "Docker",
+      "AWS"
+    ],
+    "education": "M.S. in Information Technology, Stanford University",
+    "summary": "Results-oriented Staff UI Architect with 3.4 years of industry experience specializing in Vue.js, JavaScript, Nuxt. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Nexora Tech",
+        "role": "Staff UI Architect",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Vue.js and JavaScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "BlueHarbor Software",
+        "role": "Associate Staff UI Architect",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with Nuxt.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Vue.js architecture reducing end-to-end latency by 39%.",
+      "Engineered microservices toolset integrating JavaScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-029",
+    "name": "Austin Stewart",
+    "title": "Machine Learning Engineer",
+    "years_experience": 6.8,
+    "location": "New York, NY",
+    "skills": [
+      "Python",
+      "Scikit-Learn",
+      "Pandas",
+      "NLP",
+      "MLflow",
+      "Databricks",
+      "AWS S3"
+    ],
+    "education": "B.S. in Software Engineering, Cornell University",
+    "summary": "Results-oriented Machine Learning Engineer with 6.8 years of industry experience specializing in Python, Scikit-Learn, Pandas. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Nexora Tech",
+        "role": "Machine Learning Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and Scikit-Learn.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "BlueHarbor Software",
+        "role": "Associate Machine Learning Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Pandas.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 33%.",
+      "Engineered microservices toolset integrating Scikit-Learn with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-030",
+    "name": "Michael Evans",
+    "title": "Full Stack Engineer",
+    "years_experience": 5.2,
+    "location": "New York, NY",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "Redis"
+    ],
+    "education": "M.S. in Data Science, Purdue University",
+    "summary": "Results-oriented Full Stack Engineer with 5.2 years of industry experience specializing in React, Node.js, TypeScript. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "PulsePoint Media",
+        "role": "Full Stack Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Node.js.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Vertex Cloud Solutions",
+        "role": "Associate Full Stack Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with TypeScript.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 44%.",
+      "Engineered microservices toolset integrating Node.js with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-031",
+    "name": "Elena Flores",
+    "title": "Machine Learning Engineer",
+    "years_experience": 7.7,
+    "location": "Remote - US",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "LangChain",
+      "Vector DBs",
+      "FastAPI",
+      "Docker"
+    ],
+    "education": "B.S. in Information Technology, Carnegie Mellon University",
+    "summary": "Results-oriented Machine Learning Engineer with 7.7 years of industry experience specializing in Python, PyTorch, LangChain. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Zenith Financial Technologies",
+        "role": "Machine Learning Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and PyTorch.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "PulsePoint Media",
+        "role": "Associate Machine Learning Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with LangChain.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 18%.",
+      "Engineered microservices toolset integrating PyTorch with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-032",
+    "name": "Jordan Bell",
+    "title": "DevOps Engineer",
+    "years_experience": 4.8,
+    "location": "Seattle, WA",
+    "skills": [
+      "GCP",
+      "Kubernetes",
+      "Helm",
+      "Ansible",
+      "Bash",
+      "Prometheus",
+      "Terraform",
+      "Linux"
+    ],
+    "education": "B.S. in Software Engineering, University of Illinois Urbana-Champaign",
+    "summary": "Results-oriented DevOps Engineer with 4.8 years of industry experience specializing in GCP, Kubernetes, Helm. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Kinetic Systems",
+        "role": "DevOps Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing GCP and Kubernetes.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Finova Digital",
+        "role": "Associate DevOps Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Helm.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable GCP architecture reducing end-to-end latency by 42%.",
+      "Engineered microservices toolset integrating Kubernetes with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-033",
+    "name": "Amber Zhang",
+    "title": "Web Applications Engineer",
+    "years_experience": 6.8,
+    "location": "Boston, MA",
+    "skills": [
+      "Vue.js",
+      "JavaScript",
+      "Nuxt",
+      "Vuex",
+      "CSS3",
+      "AWS"
+    ],
+    "education": "B.S. in Information Technology, Stanford University",
+    "summary": "Results-oriented Web Applications Engineer with 6.8 years of industry experience specializing in Vue.js, JavaScript, Nuxt. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Acrobyte Data",
+        "role": "Web Applications Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Vue.js and JavaScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Associate Web Applications Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Nuxt.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Vue.js architecture reducing end-to-end latency by 28%.",
+      "Engineered microservices toolset integrating JavaScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-034",
+    "name": "Jeffrey Williams",
+    "title": "Site Reliability Engineer (SRE)",
+    "years_experience": 8.5,
+    "location": "Seattle, WA",
+    "skills": [
+      "Azure",
+      "Terraform",
+      "GitHub Actions",
+      "Docker",
+      "PowerShell",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Computer Science, New York University",
+    "summary": "Results-oriented Site Reliability Engineer (SRE) with 8.5 years of industry experience specializing in Azure, Terraform, GitHub Actions. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "BlueHarbor Software",
+        "role": "Site Reliability Engineer (SRE)",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Azure and Terraform.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Nexora Tech",
+        "role": "Associate Site Reliability Engineer (SRE)",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with GitHub Actions.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Azure architecture reducing end-to-end latency by 31%.",
+      "Engineered microservices toolset integrating Terraform with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-035",
+    "name": "Megan Turner",
+    "title": "API Platform Engineer",
+    "years_experience": 8.8,
+    "location": "Chicago, IL",
+    "skills": [
+      "Go",
+      "gRPC",
+      "Docker",
+      "Kubernetes",
+      "PostgreSQL",
+      "Terraform",
+      "AWS"
+    ],
+    "education": "M.S. in Computer Science, New York University",
+    "summary": "Results-oriented API Platform Engineer with 8.8 years of industry experience specializing in Go, gRPC, Docker. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Finova Digital",
+        "role": "API Platform Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Go and gRPC.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "CipherWave Networks",
+        "role": "Associate API Platform Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Docker.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Go architecture reducing end-to-end latency by 24%.",
+      "Engineered microservices toolset integrating gRPC with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-036",
+    "name": "Samantha Morgan",
+    "title": "Staff UI Architect",
+    "years_experience": 5.9,
+    "location": "Boston, MA",
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "REST APIs",
+      "Firebase",
+      "Vercel"
+    ],
+    "education": "M.S. in Computer Science, Georgia Tech",
+    "summary": "Results-oriented Staff UI Architect with 5.9 years of industry experience specializing in React, JavaScript, HTML5. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Finova Digital",
+        "role": "Staff UI Architect",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and JavaScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Optima Health Tech",
+        "role": "Associate Staff UI Architect",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with HTML5.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 28%.",
+      "Engineered microservices toolset integrating JavaScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-037",
+    "name": "Nicole Sanchez",
+    "title": "Senior Distributed Systems Engineer",
+    "years_experience": 6.3,
+    "location": "Boston, MA",
+    "skills": [
+      "Go",
+      "gRPC",
+      "Docker",
+      "Kubernetes",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "education": "M.S. in Computer Science, UC Berkeley",
+    "summary": "Results-oriented Senior Distributed Systems Engineer with 6.3 years of industry experience specializing in Go, gRPC, Docker. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Senior Distributed Systems Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Go and gRPC.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Finova Digital",
+        "role": "Associate Senior Distributed Systems Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Docker.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Go architecture reducing end-to-end latency by 22%.",
+      "Engineered microservices toolset integrating gRPC with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-038",
+    "name": "Chloe Evans",
+    "title": "Senior Frontend Engineer",
+    "years_experience": 8.9,
+    "location": "Remote - US",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Redux",
+      "Tailwind CSS",
+      "Firebase",
+      "Vercel"
+    ],
+    "education": "M.S. in Data Science, UC Berkeley",
+    "summary": "Results-oriented Senior Frontend Engineer with 8.9 years of industry experience specializing in React, TypeScript, Next.js. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Vertex Cloud Solutions",
+        "role": "Senior Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "PulsePoint Media",
+        "role": "Associate Senior Frontend Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Next.js.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 37%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-039",
+    "name": "Aaron Wright",
+    "title": "DevOps Engineer",
+    "years_experience": 10.0,
+    "location": "Denver, CO",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Python",
+      "Monitoring"
+    ],
+    "education": "B.S. in Software Engineering, MIT",
+    "summary": "Results-oriented DevOps Engineer with 10.0 years of industry experience specializing in AWS, Terraform, Kubernetes. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "StrataCore Inc.",
+        "role": "DevOps Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing AWS and Terraform.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Vertex Cloud Solutions",
+        "role": "Associate DevOps Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Kubernetes.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable AWS architecture reducing end-to-end latency by 40%.",
+      "Engineered microservices toolset integrating Terraform with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-040",
+    "name": "Laura Thompson",
+    "title": "Software Engineer - Web Systems",
+    "years_experience": 7.2,
+    "location": "Austin, TX",
+    "skills": [
+      "Vue.js",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "GCP",
+      "CI/CD"
+    ],
+    "education": "M.S. in Data Science, Georgia Tech",
+    "summary": "Results-oriented Software Engineer - Web Systems with 7.2 years of industry experience specializing in Vue.js, Django, PostgreSQL. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Zenith Financial Technologies",
+        "role": "Software Engineer - Web Systems",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Vue.js and Django.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Optima Health Tech",
+        "role": "Associate Software Engineer - Web Systems",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with PostgreSQL.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Vue.js architecture reducing end-to-end latency by 41%.",
+      "Engineered microservices toolset integrating Django with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-041",
+    "name": "Rebecca James",
+    "title": "Cloud Infrastructure Engineer",
+    "years_experience": 7.4,
+    "location": "Boston, MA",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Python"
+    ],
+    "education": "B.S. in Information Technology, University of Texas at Austin",
+    "summary": "Results-oriented Cloud Infrastructure Engineer with 7.4 years of industry experience specializing in AWS, Terraform, Kubernetes. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Kinetic Systems",
+        "role": "Cloud Infrastructure Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing AWS and Terraform.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "CipherWave Networks",
+        "role": "Associate Cloud Infrastructure Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Kubernetes.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable AWS architecture reducing end-to-end latency by 17%.",
+      "Engineered microservices toolset integrating Terraform with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-042",
+    "name": "Barbara Fisher",
+    "title": "Senior Frontend Engineer",
+    "years_experience": 6.9,
+    "location": "Denver, CO",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Redux",
+      "Tailwind CSS",
+      "Firebase",
+      "Docker"
+    ],
+    "education": "M.S. in Computer Science, UC Berkeley",
+    "summary": "Results-oriented Senior Frontend Engineer with 6.9 years of industry experience specializing in React, TypeScript, Next.js. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Skyline Analytics",
+        "role": "Senior Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "BlueHarbor Software",
+        "role": "Associate Senior Frontend Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Next.js.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 27%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-043",
+    "name": "Zachary Rogers",
+    "title": "Machine Learning Engineer",
+    "years_experience": 7.6,
+    "location": "Chicago, IL",
+    "skills": [
+      "Python",
+      "Scikit-Learn",
+      "Pandas",
+      "NLP",
+      "MLflow",
+      "Snowflake",
+      "AWS S3"
+    ],
+    "education": "M.S. in Data Science, University of Illinois Urbana-Champaign",
+    "summary": "Results-oriented Machine Learning Engineer with 7.6 years of industry experience specializing in Python, Scikit-Learn, Pandas. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "InnoVibe Labs",
+        "role": "Machine Learning Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and Scikit-Learn.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Zenith Financial Technologies",
+        "role": "Associate Machine Learning Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Pandas.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 38%.",
+      "Engineered microservices toolset integrating Scikit-Learn with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-044",
+    "name": "Melissa Sanchez",
+    "title": "Site Reliability Engineer (SRE)",
+    "years_experience": 5.0,
+    "location": "Chicago, IL",
+    "skills": [
+      "GCP",
+      "Kubernetes",
+      "Helm",
+      "Ansible",
+      "Bash",
+      "Prometheus",
+      "AWS"
+    ],
+    "education": "M.S. in Software Engineering, University of Michigan",
+    "summary": "Results-oriented Site Reliability Engineer (SRE) with 5.0 years of industry experience specializing in GCP, Kubernetes, Helm. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Vertex Cloud Solutions",
+        "role": "Site Reliability Engineer (SRE)",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing GCP and Kubernetes.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Associate Site Reliability Engineer (SRE)",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Helm.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable GCP architecture reducing end-to-end latency by 32%.",
+      "Engineered microservices toolset integrating Kubernetes with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-045",
+    "name": "Aisha Moore",
+    "title": "Software Engineer - Web Systems",
+    "years_experience": 3.2,
+    "location": "Austin, TX",
+    "skills": [
+      "Vue.js",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "GCP",
+      "CI/CD"
+    ],
+    "education": "B.S. in Information Technology, University of Illinois Urbana-Champaign",
+    "summary": "Results-oriented Software Engineer - Web Systems with 3.2 years of industry experience specializing in Vue.js, Django, PostgreSQL. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Kinetic Systems",
+        "role": "Software Engineer - Web Systems",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Vue.js and Django.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Optima Health Tech",
+        "role": "Associate Software Engineer - Web Systems",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with PostgreSQL.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Vue.js architecture reducing end-to-end latency by 29%.",
+      "Engineered microservices toolset integrating Django with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-046",
+    "name": "Jack Lewis",
+    "title": "Site Reliability Engineer (SRE)",
+    "years_experience": 5.5,
+    "location": "San Francisco, CA",
+    "skills": [
+      "GCP",
+      "Kubernetes",
+      "Helm",
+      "Ansible",
+      "Bash",
+      "Prometheus",
+      "AWS"
+    ],
+    "education": "B.S. in Information Technology, UC Berkeley",
+    "summary": "Results-oriented Site Reliability Engineer (SRE) with 5.5 years of industry experience specializing in GCP, Kubernetes, Helm. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Site Reliability Engineer (SRE)",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing GCP and Kubernetes.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Acrobyte Data",
+        "role": "Associate Site Reliability Engineer (SRE)",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Helm.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable GCP architecture reducing end-to-end latency by 39%.",
+      "Engineered microservices toolset integrating Kubernetes with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-047",
+    "name": "Robert Bennett",
+    "title": "DevOps Engineer",
+    "years_experience": 4.8,
+    "location": "Austin, TX",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Python",
+      "Linux"
+    ],
+    "education": "M.S. in Computer Science, Purdue University",
+    "summary": "Results-oriented DevOps Engineer with 4.8 years of industry experience specializing in AWS, Terraform, Kubernetes. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Optima Health Tech",
+        "role": "DevOps Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing AWS and Terraform.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "InnoVibe Labs",
+        "role": "Associate DevOps Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Kubernetes.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable AWS architecture reducing end-to-end latency by 37%.",
+      "Engineered microservices toolset integrating Terraform with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-048",
+    "name": "Eric Zhang",
+    "title": "Software Engineer - Web Systems",
+    "years_experience": 7.3,
+    "location": "New York, NY",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "Kubernetes"
+    ],
+    "education": "B.S. in Information Technology, Purdue University",
+    "summary": "Results-oriented Software Engineer - Web Systems with 7.3 years of industry experience specializing in React, Node.js, TypeScript. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Software Engineer - Web Systems",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Node.js.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "BlueHarbor Software",
+        "role": "Associate Software Engineer - Web Systems",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with TypeScript.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 27%.",
+      "Engineered microservices toolset integrating Node.js with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-049",
+    "name": "Steven Gray",
+    "title": "Senior Frontend Engineer",
+    "years_experience": 2.7,
+    "location": "San Francisco, CA",
+    "skills": [
+      "Vue.js",
+      "JavaScript",
+      "Nuxt",
+      "Vuex",
+      "CSS3",
+      "Netlify"
+    ],
+    "education": "M.S. in Data Science, University of Washington",
+    "summary": "Results-oriented Senior Frontend Engineer with 2.7 years of industry experience specializing in Vue.js, JavaScript, Nuxt. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Kinetic Systems",
+        "role": "Senior Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Vue.js and JavaScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Acrobyte Data",
+        "role": "Associate Senior Frontend Engineer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with Nuxt.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Vue.js architecture reducing end-to-end latency by 31%.",
+      "Engineered microservices toolset integrating JavaScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-050",
+    "name": "Richard Lewis",
+    "title": "Web Applications Engineer",
+    "years_experience": 7.8,
+    "location": "Austin, TX",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Redux",
+      "Tailwind CSS",
+      "Docker",
+      "Firebase"
+    ],
+    "education": "M.S. in Software Engineering, New York University",
+    "summary": "Results-oriented Web Applications Engineer with 7.8 years of industry experience specializing in React, TypeScript, Next.js. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "InnoVibe Labs",
+        "role": "Web Applications Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "PulsePoint Media",
+        "role": "Associate Web Applications Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Next.js.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 23%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-051",
+    "name": "Paul Reyes",
+    "title": "Site Reliability Engineer (SRE)",
+    "years_experience": 6.9,
+    "location": "New York, NY",
+    "skills": [
+      "Azure",
+      "Terraform",
+      "GitHub Actions",
+      "Docker",
+      "PowerShell",
+      "Linux"
+    ],
+    "education": "M.S. in Data Science, UC Berkeley",
+    "summary": "Results-oriented Site Reliability Engineer (SRE) with 6.9 years of industry experience specializing in Azure, Terraform, GitHub Actions. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Zenith Financial Technologies",
+        "role": "Site Reliability Engineer (SRE)",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Azure and Terraform.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "StrataCore Inc.",
+        "role": "Associate Site Reliability Engineer (SRE)",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with GitHub Actions.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Azure architecture reducing end-to-end latency by 33%.",
+      "Engineered microservices toolset integrating Terraform with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-052",
+    "name": "Paul Thompson",
+    "title": "Full Stack Engineer",
+    "years_experience": 6.5,
+    "location": "Seattle, WA",
+    "skills": [
+      "Angular",
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "Docker",
+      "CI/CD"
+    ],
+    "education": "M.S. in Information Technology, University of Texas at Austin",
+    "summary": "Results-oriented Full Stack Engineer with 6.5 years of industry experience specializing in Angular, Java, Spring Boot. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Finova Digital",
+        "role": "Full Stack Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Angular and Java.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Associate Full Stack Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Spring Boot.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Angular architecture reducing end-to-end latency by 37%.",
+      "Engineered microservices toolset integrating Java with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-053",
+    "name": "Gabriel Roberts",
+    "title": "Senior Frontend Engineer",
+    "years_experience": 2.6,
+    "location": "Denver, CO",
+    "skills": [
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "SCSS",
+      "Jest",
+      "Netlify",
+      "Vercel"
+    ],
+    "education": "M.S. in Data Science, Stanford University",
+    "summary": "Results-oriented Senior Frontend Engineer with 2.6 years of industry experience specializing in Angular, TypeScript, RxJS. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Acrobyte Data",
+        "role": "Senior Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Angular and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Kinetic Systems",
+        "role": "Associate Senior Frontend Engineer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with RxJS.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Angular architecture reducing end-to-end latency by 22%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-054",
+    "name": "Justin Walker",
+    "title": "Staff UI Architect",
+    "years_experience": 5.3,
+    "location": "Chicago, IL",
+    "skills": [
+      "Vue.js",
+      "JavaScript",
+      "Nuxt",
+      "Vuex",
+      "CSS3",
+      "Netlify",
+      "Docker"
+    ],
+    "education": "M.S. in Information Technology, Georgia Tech",
+    "summary": "Results-oriented Staff UI Architect with 5.3 years of industry experience specializing in Vue.js, JavaScript, Nuxt. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Finova Digital",
+        "role": "Staff UI Architect",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Vue.js and JavaScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Optima Health Tech",
+        "role": "Associate Staff UI Architect",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Nuxt.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Vue.js architecture reducing end-to-end latency by 18%.",
+      "Engineered microservices toolset integrating JavaScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-055",
+    "name": "Taylor Gonzalez",
+    "title": "Senior Frontend Engineer",
+    "years_experience": 3.3,
+    "location": "New York, NY",
+    "skills": [
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "SCSS",
+      "Jest",
+      "Netlify",
+      "Docker"
+    ],
+    "education": "B.S. in Information Technology, UC Berkeley",
+    "summary": "Results-oriented Senior Frontend Engineer with 3.3 years of industry experience specializing in Angular, TypeScript, RxJS. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Kinetic Systems",
+        "role": "Senior Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Angular and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Vertex Cloud Solutions",
+        "role": "Associate Senior Frontend Engineer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with RxJS.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Angular architecture reducing end-to-end latency by 24%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-056",
+    "name": "Abigail Washington",
+    "title": "Senior Full Stack Developer",
+    "years_experience": 3.3,
+    "location": "New York, NY",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "CI/CD"
+    ],
+    "education": "B.S. in Information Technology, University of Michigan",
+    "summary": "Results-oriented Senior Full Stack Developer with 3.3 years of industry experience specializing in React, Node.js, TypeScript. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "StrataCore Inc.",
+        "role": "Senior Full Stack Developer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Node.js.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "InnoVibe Labs",
+        "role": "Associate Senior Full Stack Developer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with TypeScript.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 25%.",
+      "Engineered microservices toolset integrating Node.js with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-057",
+    "name": "Catherine Brooks",
+    "title": "Web Applications Engineer",
+    "years_experience": 2.8,
+    "location": "San Francisco, CA",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Redux",
+      "Tailwind CSS",
+      "Firebase",
+      "AWS"
+    ],
+    "education": "B.S. in Software Engineering, Purdue University",
+    "summary": "Results-oriented Web Applications Engineer with 2.8 years of industry experience specializing in React, TypeScript, Next.js. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Finova Digital",
+        "role": "Web Applications Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Acrobyte Data",
+        "role": "Associate Web Applications Engineer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with Next.js.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 22%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-058",
+    "name": "Ashley Roberts",
+    "title": "Cloud Infrastructure Engineer",
+    "years_experience": 8.4,
+    "location": "Remote - US",
+    "skills": [
+      "Azure",
+      "Terraform",
+      "GitHub Actions",
+      "Docker",
+      "PowerShell",
+      "Monitoring"
+    ],
+    "education": "M.S. in Data Science, Georgia Tech",
+    "summary": "Results-oriented Cloud Infrastructure Engineer with 8.4 years of industry experience specializing in Azure, Terraform, GitHub Actions. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Skyline Analytics",
+        "role": "Cloud Infrastructure Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Azure and Terraform.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "CipherWave Networks",
+        "role": "Associate Cloud Infrastructure Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with GitHub Actions.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Azure architecture reducing end-to-end latency by 28%.",
+      "Engineered microservices toolset integrating Terraform with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-059",
+    "name": "Heather Robinson",
+    "title": "API Platform Engineer",
+    "years_experience": 10.7,
+    "location": "Boston, MA",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Kafka",
+      "Docker"
+    ],
+    "education": "B.S. in Software Engineering, UC Berkeley",
+    "summary": "Results-oriented API Platform Engineer with 10.7 years of industry experience specializing in Python, FastAPI, PostgreSQL. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Vertex Cloud Solutions",
+        "role": "API Platform Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and FastAPI.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "CipherWave Networks",
+        "role": "Associate API Platform Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with PostgreSQL.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 17%.",
+      "Engineered microservices toolset integrating FastAPI with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-060",
+    "name": "Brian Anderson",
+    "title": "Software Engineer - Web Systems",
+    "years_experience": 7.2,
+    "location": "Boston, MA",
+    "skills": [
+      "Angular",
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "Docker"
+    ],
+    "education": "M.S. in Data Science, MIT",
+    "summary": "Results-oriented Software Engineer - Web Systems with 7.2 years of industry experience specializing in Angular, Java, Spring Boot. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Software Engineer - Web Systems",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Angular and Java.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Optima Health Tech",
+        "role": "Associate Software Engineer - Web Systems",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Spring Boot.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Angular architecture reducing end-to-end latency by 44%.",
+      "Engineered microservices toolset integrating Java with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-061",
+    "name": "Ethan Smith",
+    "title": "Full Stack Engineer",
+    "years_experience": 6.0,
+    "location": "Austin, TX",
+    "skills": [
+      "React",
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "AWS",
+      "Kubernetes"
+    ],
+    "education": "B.S. in Computer Science, Carnegie Mellon University",
+    "summary": "Results-oriented Full Stack Engineer with 6.0 years of industry experience specializing in React, Python, FastAPI. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Zenith Financial Technologies",
+        "role": "Full Stack Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Python.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Finova Digital",
+        "role": "Associate Full Stack Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with FastAPI.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 34%.",
+      "Engineered microservices toolset integrating Python with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-062",
+    "name": "Tyler Robinson",
+    "title": "Data Engineer",
+    "years_experience": 2.8,
+    "location": "Denver, CO",
+    "skills": [
+      "Python",
+      "Scikit-Learn",
+      "Pandas",
+      "NLP",
+      "MLflow",
+      "Snowflake",
+      "Docker"
+    ],
+    "education": "M.S. in Computer Science, Purdue University",
+    "summary": "Results-oriented Data Engineer with 2.8 years of industry experience specializing in Python, Scikit-Learn, Pandas. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Nexora Tech",
+        "role": "Data Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and Scikit-Learn.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "StrataCore Inc.",
+        "role": "Associate Data Engineer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with Pandas.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 38%.",
+      "Engineered microservices toolset integrating Scikit-Learn with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-063",
+    "name": "Jack Sanchez",
+    "title": "Frontend Engineer",
+    "years_experience": 3.6,
+    "location": "Austin, TX",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Redux",
+      "Tailwind CSS",
+      "Netlify",
+      "AWS"
+    ],
+    "education": "M.S. in Data Science, Georgia Tech",
+    "summary": "Results-oriented Frontend Engineer with 3.6 years of industry experience specializing in React, TypeScript, Next.js. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Vertex Cloud Solutions",
+        "role": "Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Associate Frontend Engineer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with Next.js.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 28%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-064",
+    "name": "Rebecca Perry",
+    "title": "Data Engineer",
+    "years_experience": 4.3,
+    "location": "Chicago, IL",
+    "skills": [
+      "Python",
+      "Spark",
+      "SQL",
+      "Airflow",
+      "Snowflake",
+      "AWS",
+      "AWS S3",
+      "SageMaker"
+    ],
+    "education": "M.S. in Data Science, Georgia Tech",
+    "summary": "Results-oriented Data Engineer with 4.3 years of industry experience specializing in Python, Spark, SQL. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Data Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and Spark.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "BlueHarbor Software",
+        "role": "Associate Data Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with SQL.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 41%.",
+      "Engineered microservices toolset integrating Spark with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-065",
+    "name": "William Rivera",
+    "title": "Frontend Engineer",
+    "years_experience": 4.2,
+    "location": "San Francisco, CA",
+    "skills": [
+      "Vue.js",
+      "JavaScript",
+      "Nuxt",
+      "Vuex",
+      "CSS3",
+      "Firebase"
+    ],
+    "education": "M.S. in Data Science, Stanford University",
+    "summary": "Results-oriented Frontend Engineer with 4.2 years of industry experience specializing in Vue.js, JavaScript, Nuxt. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Optima Health Tech",
+        "role": "Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Vue.js and JavaScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "CipherWave Networks",
+        "role": "Associate Frontend Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Nuxt.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Vue.js architecture reducing end-to-end latency by 26%.",
+      "Engineered microservices toolset integrating JavaScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-066",
+    "name": "Rachel Wright",
+    "title": "Senior Full Stack Developer",
+    "years_experience": 8.3,
+    "location": "Boston, MA",
+    "skills": [
+      "React",
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "AWS",
+      "Redis",
+      "Docker"
+    ],
+    "education": "M.S. in Data Science, MIT",
+    "summary": "Results-oriented Senior Full Stack Developer with 8.3 years of industry experience specializing in React, Python, FastAPI. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Nexora Tech",
+        "role": "Senior Full Stack Developer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Python.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "PulsePoint Media",
+        "role": "Associate Senior Full Stack Developer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with FastAPI.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 34%.",
+      "Engineered microservices toolset integrating Python with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-067",
+    "name": "Elena Washington",
+    "title": "Frontend Engineer",
+    "years_experience": 5.9,
+    "location": "Denver, CO",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Redux",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "education": "B.S. in Software Engineering, University of Michigan",
+    "summary": "Results-oriented Frontend Engineer with 5.9 years of industry experience specializing in React, TypeScript, Next.js. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "PulsePoint Media",
+        "role": "Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Finova Digital",
+        "role": "Associate Frontend Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Next.js.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 31%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-068",
+    "name": "Stephanie Jackson",
+    "title": "Senior Full Stack Developer",
+    "years_experience": 9.9,
+    "location": "Remote - US",
+    "skills": [
+      "React",
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "AWS",
+      "Redis",
+      "Docker"
+    ],
+    "education": "B.S. in Software Engineering, MIT",
+    "summary": "Results-oriented Senior Full Stack Developer with 9.9 years of industry experience specializing in React, Python, FastAPI. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Finova Digital",
+        "role": "Senior Full Stack Developer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Python.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Skyline Analytics",
+        "role": "Associate Senior Full Stack Developer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with FastAPI.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 40%.",
+      "Engineered microservices toolset integrating Python with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-069",
+    "name": "Katherine Lewis",
+    "title": "AI Applications Developer",
+    "years_experience": 3.7,
+    "location": "Austin, TX",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "LangChain",
+      "Vector DBs",
+      "FastAPI",
+      "Docker",
+      "Snowflake"
+    ],
+    "education": "M.S. in Data Science, University of Texas at Austin",
+    "summary": "Results-oriented AI Applications Developer with 3.7 years of industry experience specializing in Python, PyTorch, LangChain. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Kinetic Systems",
+        "role": "AI Applications Developer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and PyTorch.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "CipherWave Networks",
+        "role": "Associate AI Applications Developer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with LangChain.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 39%.",
+      "Engineered microservices toolset integrating PyTorch with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-070",
+    "name": "Melissa Miller",
+    "title": "Senior Full Stack Developer",
+    "years_experience": 9.1,
+    "location": "San Francisco, CA",
+    "skills": [
+      "React",
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "AWS",
+      "Docker",
+      "CI/CD"
+    ],
+    "education": "M.S. in Data Science, New York University",
+    "summary": "Results-oriented Senior Full Stack Developer with 9.1 years of industry experience specializing in React, Python, FastAPI. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Zenith Financial Technologies",
+        "role": "Senior Full Stack Developer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Python.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "BlueHarbor Software",
+        "role": "Associate Senior Full Stack Developer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with FastAPI.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 27%.",
+      "Engineered microservices toolset integrating Python with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-071",
+    "name": "Ryan Taylor",
+    "title": "Data Engineer",
+    "years_experience": 8.3,
+    "location": "New York, NY",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "LangChain",
+      "Vector DBs",
+      "FastAPI",
+      "Docker",
+      "AWS S3",
+      "Snowflake"
+    ],
+    "education": "M.S. in Computer Science, New York University",
+    "summary": "Results-oriented Data Engineer with 8.3 years of industry experience specializing in Python, PyTorch, LangChain. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Vertex Cloud Solutions",
+        "role": "Data Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and PyTorch.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "StrataCore Inc.",
+        "role": "Associate Data Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with LangChain.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 42%.",
+      "Engineered microservices toolset integrating PyTorch with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-072",
+    "name": "Robert Fisher",
+    "title": "Staff UI Architect",
+    "years_experience": 4.4,
+    "location": "Remote - US",
+    "skills": [
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "SCSS",
+      "Jest",
+      "Docker"
+    ],
+    "education": "M.S. in Data Science, Cornell University",
+    "summary": "Results-oriented Staff UI Architect with 4.4 years of industry experience specializing in Angular, TypeScript, RxJS. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Nexora Tech",
+        "role": "Staff UI Architect",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Angular and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Associate Staff UI Architect",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with RxJS.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Angular architecture reducing end-to-end latency by 17%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-073",
+    "name": "Elena Smith",
+    "title": "Senior Distributed Systems Engineer",
+    "years_experience": 11.0,
+    "location": "Denver, CO",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Kafka",
+      "AWS",
+      "Prometheus"
+    ],
+    "education": "B.S. in Information Technology, Stanford University",
+    "summary": "Results-oriented Senior Distributed Systems Engineer with 11.0 years of industry experience specializing in Python, FastAPI, PostgreSQL. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Nexora Tech",
+        "role": "Senior Distributed Systems Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and FastAPI.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "BlueHarbor Software",
+        "role": "Associate Senior Distributed Systems Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with PostgreSQL.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 40%.",
+      "Engineered microservices toolset integrating FastAPI with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-074",
+    "name": "Amanda Johnson",
+    "title": "Senior Full Stack Developer",
+    "years_experience": 4.0,
+    "location": "Austin, TX",
+    "skills": [
+      "Vue.js",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "GCP",
+      "Docker"
+    ],
+    "education": "B.S. in Data Science, Purdue University",
+    "summary": "Results-oriented Senior Full Stack Developer with 4.0 years of industry experience specializing in Vue.js, Django, PostgreSQL. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Senior Full Stack Developer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Vue.js and Django.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Optima Health Tech",
+        "role": "Associate Senior Full Stack Developer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with PostgreSQL.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Vue.js architecture reducing end-to-end latency by 30%.",
+      "Engineered microservices toolset integrating Django with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-075",
+    "name": "Nicole Evans",
+    "title": "Staff UI Architect",
+    "years_experience": 5.2,
+    "location": "New York, NY",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Redux",
+      "Tailwind CSS",
+      "Docker",
+      "Vercel"
+    ],
+    "education": "M.S. in Information Technology, Purdue University",
+    "summary": "Results-oriented Staff UI Architect with 5.2 years of industry experience specializing in React, TypeScript, Next.js. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Finova Digital",
+        "role": "Staff UI Architect",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "PulsePoint Media",
+        "role": "Associate Staff UI Architect",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Next.js.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 45%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-076",
+    "name": "Keith Walker",
+    "title": "Staff UI Architect",
+    "years_experience": 3.4,
+    "location": "Remote - US",
+    "skills": [
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "SCSS",
+      "Jest",
+      "AWS",
+      "Vercel"
+    ],
+    "education": "M.S. in Information Technology, New York University",
+    "summary": "Results-oriented Staff UI Architect with 3.4 years of industry experience specializing in Angular, TypeScript, RxJS. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Finova Digital",
+        "role": "Staff UI Architect",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Angular and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Nexora Tech",
+        "role": "Associate Staff UI Architect",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with RxJS.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Angular architecture reducing end-to-end latency by 41%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-077",
+    "name": "Ryan Moore",
+    "title": "Frontend Engineer",
+    "years_experience": 8.4,
+    "location": "Seattle, WA",
+    "skills": [
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "SCSS",
+      "Jest",
+      "Vercel",
+      "Docker"
+    ],
+    "education": "B.S. in Information Technology, University of Washington",
+    "summary": "Results-oriented Frontend Engineer with 8.4 years of industry experience specializing in Angular, TypeScript, RxJS. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Zenith Financial Technologies",
+        "role": "Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Angular and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "PulsePoint Media",
+        "role": "Associate Frontend Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with RxJS.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Angular architecture reducing end-to-end latency by 39%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-078",
+    "name": "Ryan Turner",
+    "title": "Cloud Infrastructure Engineer",
+    "years_experience": 3.9,
+    "location": "Denver, CO",
+    "skills": [
+      "Azure",
+      "Terraform",
+      "GitHub Actions",
+      "Docker",
+      "PowerShell"
+    ],
+    "education": "B.S. in Information Technology, New York University",
+    "summary": "Results-oriented Cloud Infrastructure Engineer with 3.9 years of industry experience specializing in Azure, Terraform, GitHub Actions. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Vertex Cloud Solutions",
+        "role": "Cloud Infrastructure Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Azure and Terraform.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Acrobyte Data",
+        "role": "Associate Cloud Infrastructure Engineer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with GitHub Actions.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Azure architecture reducing end-to-end latency by 44%.",
+      "Engineered microservices toolset integrating Terraform with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-079",
+    "name": "Hannah King",
+    "title": "Backend Engineer",
+    "years_experience": 4.2,
+    "location": "Denver, CO",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Kafka",
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Information Technology, MIT",
+    "summary": "Results-oriented Backend Engineer with 4.2 years of industry experience specializing in Java, Spring Boot, Microservices. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "StrataCore Inc.",
+        "role": "Backend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Java and Spring Boot.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Acrobyte Data",
+        "role": "Associate Backend Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Microservices.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Java architecture reducing end-to-end latency by 19%.",
+      "Engineered microservices toolset integrating Spring Boot with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-080",
+    "name": "Victoria Hall",
+    "title": "Cloud Infrastructure Engineer",
+    "years_experience": 9.1,
+    "location": "San Francisco, CA",
+    "skills": [
+      "GCP",
+      "Kubernetes",
+      "Helm",
+      "Ansible",
+      "Bash",
+      "Prometheus",
+      "AWS"
+    ],
+    "education": "M.S. in Computer Science, University of Michigan",
+    "summary": "Results-oriented Cloud Infrastructure Engineer with 9.1 years of industry experience specializing in GCP, Kubernetes, Helm. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Kinetic Systems",
+        "role": "Cloud Infrastructure Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing GCP and Kubernetes.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "PulsePoint Media",
+        "role": "Associate Cloud Infrastructure Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Helm.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable GCP architecture reducing end-to-end latency by 38%.",
+      "Engineered microservices toolset integrating Kubernetes with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-081",
+    "name": "Samuel Hughes",
+    "title": "Software Engineer - Web Systems",
+    "years_experience": 9.6,
+    "location": "San Francisco, CA",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "CI/CD"
+    ],
+    "education": "M.S. in Software Engineering, University of Washington",
+    "summary": "Results-oriented Software Engineer - Web Systems with 9.6 years of industry experience specializing in React, Node.js, TypeScript. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Acrobyte Data",
+        "role": "Software Engineer - Web Systems",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Node.js.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "PulsePoint Media",
+        "role": "Associate Software Engineer - Web Systems",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with TypeScript.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 41%.",
+      "Engineered microservices toolset integrating Node.js with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-082",
+    "name": "Laura Ward",
+    "title": "Web Applications Engineer",
+    "years_experience": 2.8,
+    "location": "Denver, CO",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Redux",
+      "Tailwind CSS",
+      "Docker"
+    ],
+    "education": "B.S. in Computer Science, UC Berkeley",
+    "summary": "Results-oriented Web Applications Engineer with 2.8 years of industry experience specializing in React, TypeScript, Next.js. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "InnoVibe Labs",
+        "role": "Web Applications Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Vertex Cloud Solutions",
+        "role": "Associate Web Applications Engineer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with Next.js.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 27%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-083",
+    "name": "Kyle Martinez",
+    "title": "API Platform Engineer",
+    "years_experience": 8.4,
+    "location": "New York, NY",
+    "skills": [
+      "Node.js",
+      "Express",
+      "TypeScript",
+      "MongoDB",
+      "RabbitMQ",
+      "Terraform"
+    ],
+    "education": "M.S. in Data Science, Georgia Tech",
+    "summary": "Results-oriented API Platform Engineer with 8.4 years of industry experience specializing in Node.js, Express, TypeScript. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Nexora Tech",
+        "role": "API Platform Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Node.js and Express.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Zenith Financial Technologies",
+        "role": "Associate API Platform Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with TypeScript.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Node.js architecture reducing end-to-end latency by 26%.",
+      "Engineered microservices toolset integrating Express with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-084",
+    "name": "Daniel Nelson",
+    "title": "Full Stack Engineer",
+    "years_experience": 9.0,
+    "location": "San Francisco, CA",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "Redis",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Information Technology, UC Berkeley",
+    "summary": "Results-oriented Full Stack Engineer with 9.0 years of industry experience specializing in React, Node.js, TypeScript. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Acrobyte Data",
+        "role": "Full Stack Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Node.js.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "InnoVibe Labs",
+        "role": "Associate Full Stack Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with TypeScript.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 17%.",
+      "Engineered microservices toolset integrating Node.js with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-085",
+    "name": "Ryan Gutierrez",
+    "title": "API Platform Engineer",
+    "years_experience": 10.8,
+    "location": "Seattle, WA",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Kafka",
+      "Docker",
+      "Prometheus"
+    ],
+    "education": "B.S. in Software Engineering, Purdue University",
+    "summary": "Results-oriented API Platform Engineer with 10.8 years of industry experience specializing in Python, FastAPI, PostgreSQL. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Optima Health Tech",
+        "role": "API Platform Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and FastAPI.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Finova Digital",
+        "role": "Associate API Platform Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with PostgreSQL.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 25%.",
+      "Engineered microservices toolset integrating FastAPI with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-086",
+    "name": "Zoe Evans",
+    "title": "Cloud Infrastructure Engineer",
+    "years_experience": 3.0,
+    "location": "Boston, MA",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Python",
+      "Monitoring"
+    ],
+    "education": "B.S. in Computer Science, University of Washington",
+    "summary": "Results-oriented Cloud Infrastructure Engineer with 3.0 years of industry experience specializing in AWS, Terraform, Kubernetes. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Skyline Analytics",
+        "role": "Cloud Infrastructure Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing AWS and Terraform.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Nexora Tech",
+        "role": "Associate Cloud Infrastructure Engineer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with Kubernetes.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable AWS architecture reducing end-to-end latency by 19%.",
+      "Engineered microservices toolset integrating Terraform with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-087",
+    "name": "Abigail Lopez",
+    "title": "DevOps Engineer",
+    "years_experience": 8.3,
+    "location": "San Francisco, CA",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Python"
+    ],
+    "education": "B.S. in Data Science, Cornell University",
+    "summary": "Results-oriented DevOps Engineer with 8.3 years of industry experience specializing in AWS, Terraform, Kubernetes. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Acrobyte Data",
+        "role": "DevOps Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing AWS and Terraform.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Zenith Financial Technologies",
+        "role": "Associate DevOps Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Kubernetes.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable AWS architecture reducing end-to-end latency by 17%.",
+      "Engineered microservices toolset integrating Terraform with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-088",
+    "name": "Lauren Nguyen",
+    "title": "Cloud Infrastructure Engineer",
+    "years_experience": 8.3,
+    "location": "San Francisco, CA",
+    "skills": [
+      "GCP",
+      "Kubernetes",
+      "Helm",
+      "Ansible",
+      "Bash",
+      "Prometheus",
+      "Monitoring"
+    ],
+    "education": "M.S. in Data Science, University of Washington",
+    "summary": "Results-oriented Cloud Infrastructure Engineer with 8.3 years of industry experience specializing in GCP, Kubernetes, Helm. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Nexora Tech",
+        "role": "Cloud Infrastructure Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing GCP and Kubernetes.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Acrobyte Data",
+        "role": "Associate Cloud Infrastructure Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Helm.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable GCP architecture reducing end-to-end latency by 30%.",
+      "Engineered microservices toolset integrating Kubernetes with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-089",
+    "name": "Justin Murphy",
+    "title": "Senior Distributed Systems Engineer",
+    "years_experience": 8.6,
+    "location": "Chicago, IL",
+    "skills": [
+      "Node.js",
+      "Express",
+      "TypeScript",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "education": "B.S. in Computer Science, Carnegie Mellon University",
+    "summary": "Results-oriented Senior Distributed Systems Engineer with 8.6 years of industry experience specializing in Node.js, Express, TypeScript. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Finova Digital",
+        "role": "Senior Distributed Systems Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Node.js and Express.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "OmniPlatform Systems",
+        "role": "Associate Senior Distributed Systems Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with TypeScript.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Node.js architecture reducing end-to-end latency by 35%.",
+      "Engineered microservices toolset integrating Express with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-090",
+    "name": "Nicole Rivera",
+    "title": "Senior Distributed Systems Engineer",
+    "years_experience": 11.0,
+    "location": "New York, NY",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Kafka",
+      "AWS",
+      "Prometheus",
+      "Terraform"
+    ],
+    "education": "B.S. in Software Engineering, University of Illinois Urbana-Champaign",
+    "summary": "Results-oriented Senior Distributed Systems Engineer with 11.0 years of industry experience specializing in Java, Spring Boot, Microservices. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "StrataCore Inc.",
+        "role": "Senior Distributed Systems Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Java and Spring Boot.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Optima Health Tech",
+        "role": "Associate Senior Distributed Systems Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Microservices.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Java architecture reducing end-to-end latency by 28%.",
+      "Engineered microservices toolset integrating Spring Boot with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-091",
+    "name": "Jason Ortiz",
+    "title": "Software Engineer - Web Systems",
+    "years_experience": 3.7,
+    "location": "Austin, TX",
+    "skills": [
+      "Vue.js",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "GCP",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Computer Science, MIT",
+    "summary": "Results-oriented Software Engineer - Web Systems with 3.7 years of industry experience specializing in Vue.js, Django, PostgreSQL. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Skyline Analytics",
+        "role": "Software Engineer - Web Systems",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Vue.js and Django.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Acrobyte Data",
+        "role": "Associate Software Engineer - Web Systems",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with PostgreSQL.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Vue.js architecture reducing end-to-end latency by 17%.",
+      "Engineered microservices toolset integrating Django with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-092",
+    "name": "Kenneth Collins",
+    "title": "Senior Distributed Systems Engineer",
+    "years_experience": 9.4,
+    "location": "Chicago, IL",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Kafka",
+      "AWS",
+      "Terraform"
+    ],
+    "education": "M.S. in Computer Science, Georgia Tech",
+    "summary": "Results-oriented Senior Distributed Systems Engineer with 9.4 years of industry experience specializing in Python, FastAPI, PostgreSQL. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "CipherWave Networks",
+        "role": "Senior Distributed Systems Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and FastAPI.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Finova Digital",
+        "role": "Associate Senior Distributed Systems Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with PostgreSQL.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 26%.",
+      "Engineered microservices toolset integrating FastAPI with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-093",
+    "name": "Anthony Rodriguez",
+    "title": "Full Stack Engineer",
+    "years_experience": 7.6,
+    "location": "Chicago, IL",
+    "skills": [
+      "React",
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "AWS",
+      "Kubernetes"
+    ],
+    "education": "B.S. in Information Technology, Purdue University",
+    "summary": "Results-oriented Full Stack Engineer with 7.6 years of industry experience specializing in React, Python, FastAPI. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Optima Health Tech",
+        "role": "Full Stack Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Python.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Skyline Analytics",
+        "role": "Associate Full Stack Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with FastAPI.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 28%.",
+      "Engineered microservices toolset integrating Python with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-094",
+    "name": "Michelle Zhang",
+    "title": "Cloud Infrastructure Engineer",
+    "years_experience": 9.1,
+    "location": "Boston, MA",
+    "skills": [
+      "Azure",
+      "Terraform",
+      "GitHub Actions",
+      "Docker",
+      "PowerShell",
+      "Monitoring"
+    ],
+    "education": "B.S. in Software Engineering, Georgia Tech",
+    "summary": "Results-oriented Cloud Infrastructure Engineer with 9.1 years of industry experience specializing in Azure, Terraform, GitHub Actions. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "PulsePoint Media",
+        "role": "Cloud Infrastructure Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Azure and Terraform.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "Skyline Analytics",
+        "role": "Associate Cloud Infrastructure Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with GitHub Actions.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Azure architecture reducing end-to-end latency by 24%.",
+      "Engineered microservices toolset integrating Terraform with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-095",
+    "name": "Jason Long",
+    "title": "Senior Frontend Engineer",
+    "years_experience": 6.0,
+    "location": "San Francisco, CA",
+    "skills": [
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "SCSS",
+      "Jest",
+      "Vercel"
+    ],
+    "education": "B.S. in Software Engineering, University of Illinois Urbana-Champaign",
+    "summary": "Results-oriented Senior Frontend Engineer with 6.0 years of industry experience specializing in Angular, TypeScript, RxJS. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "BlueHarbor Software",
+        "role": "Senior Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Angular and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "InnoVibe Labs",
+        "role": "Associate Senior Frontend Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with RxJS.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Angular architecture reducing end-to-end latency by 25%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-096",
+    "name": "Brian Martinez",
+    "title": "Staff UI Architect",
+    "years_experience": 7.4,
+    "location": "Austin, TX",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Redux",
+      "Tailwind CSS",
+      "Vercel"
+    ],
+    "education": "B.S. in Computer Science, Georgia Tech",
+    "summary": "Results-oriented Staff UI Architect with 7.4 years of industry experience specializing in React, TypeScript, Next.js. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "StrataCore Inc.",
+        "role": "Staff UI Architect",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and TypeScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "PulsePoint Media",
+        "role": "Associate Staff UI Architect",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Next.js.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 28%.",
+      "Engineered microservices toolset integrating TypeScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-097",
+    "name": "Logan Sanchez",
+    "title": "Senior Full Stack Developer",
+    "years_experience": 4.5,
+    "location": "Boston, MA",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "CI/CD",
+      "AWS"
+    ],
+    "education": "M.S. in Information Technology, Stanford University",
+    "summary": "Results-oriented Senior Full Stack Developer with 4.5 years of industry experience specializing in React, Node.js, TypeScript. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Optima Health Tech",
+        "role": "Senior Full Stack Developer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Node.js.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "StrataCore Inc.",
+        "role": "Associate Senior Full Stack Developer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with TypeScript.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 34%.",
+      "Engineered microservices toolset integrating Node.js with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-098",
+    "name": "Amanda Anderson",
+    "title": "Senior Frontend Engineer",
+    "years_experience": 7.4,
+    "location": "San Francisco, CA",
+    "skills": [
+      "Vue.js",
+      "JavaScript",
+      "Nuxt",
+      "Vuex",
+      "CSS3",
+      "Docker",
+      "AWS"
+    ],
+    "education": "M.S. in Data Science, Carnegie Mellon University",
+    "summary": "Results-oriented Senior Frontend Engineer with 7.4 years of industry experience specializing in Vue.js, JavaScript, Nuxt. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Vertex Cloud Solutions",
+        "role": "Senior Frontend Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Vue.js and JavaScript.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "StrataCore Inc.",
+        "role": "Associate Senior Frontend Engineer",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with Nuxt.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Vue.js architecture reducing end-to-end latency by 32%.",
+      "Engineered microservices toolset integrating JavaScript with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-099",
+    "name": "Stephanie Harris",
+    "title": "Software Engineer - Web Systems",
+    "years_experience": 8.6,
+    "location": "San Francisco, CA",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "CI/CD"
+    ],
+    "education": "M.S. in Computer Science, University of Texas at Austin",
+    "summary": "Results-oriented Software Engineer - Web Systems with 8.6 years of industry experience specializing in React, Node.js, TypeScript. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "CipherWave Networks",
+        "role": "Software Engineer - Web Systems",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing React and Node.js.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "BlueHarbor Software",
+        "role": "Associate Software Engineer - Web Systems",
+        "duration": "2019 - 2022",
+        "highlights": [
+          "Contributed to core product development with TypeScript.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable React architecture reducing end-to-end latency by 33%.",
+      "Engineered microservices toolset integrating Node.js with cloud monitoring."
+    ]
+  },
+  {
+    "id": "CAND-100",
+    "name": "Justin Washington",
+    "title": "Senior Distributed Systems Engineer",
+    "years_experience": 3.5,
+    "location": "Chicago, IL",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Kafka",
+      "Docker",
+      "Terraform"
+    ],
+    "education": "B.S. in Data Science, MIT",
+    "summary": "Results-oriented Senior Distributed Systems Engineer with 3.5 years of industry experience specializing in Python, FastAPI, PostgreSQL. Proven track record delivering reliable software systems and collaborating in Agile teams.",
+    "experience": [
+      {
+        "company": "Optima Health Tech",
+        "role": "Senior Distributed Systems Engineer",
+        "duration": "2022 - Present",
+        "highlights": [
+          "Designed and maintained enterprise web features utilizing Python and FastAPI.",
+          "Collaborated with cross-functional product and engineering teams to enhance performance and UX.",
+          "Automated unit testing and CI/CD pipelines to ensure code stability and release frequency."
+        ]
+      },
+      {
+        "company": "StrataCore Inc.",
+        "role": "Associate Senior Distributed Systems Engineer",
+        "duration": "2021 - 2022",
+        "highlights": [
+          "Contributed to core product development with PostgreSQL.",
+          "Wrote unit tests and resolved critical customer defect tickets."
+        ]
+      }
+    ],
+    "projects": [
+      "Built scalable Python architecture reducing end-to-end latency by 33%.",
+      "Engineered microservices toolset integrating FastAPI with cloud monitoring."
+    ]
+  }
+]

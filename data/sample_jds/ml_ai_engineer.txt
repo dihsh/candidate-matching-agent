@@ -1,0 +1,12 @@
+Job Title: AI / Machine Learning Engineer
+Experience Required: 3+ years
+
+Must-Have Requirements:
+- 3+ years Python experience in machine learning or AI application development.
+- Hands-on experience with PyTorch, Scikit-Learn, or Hugging Face Transformers.
+- Experience with LLM orchestration (LangChain, LangGraph, or LlamaIndex) and Vector DBs.
+- Strong understanding of REST APIs, FastAPI, and Docker.
+
+Nice-to-Have Requirements:
+- Experience deploying ML models to AWS SageMaker or Kubernetes.
+- Experience with agentic workflows and multi-step reasoning systems.

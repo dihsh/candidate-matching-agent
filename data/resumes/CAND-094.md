@@ -1,0 +1,27 @@
+# Michelle Zhang
+**Candidate ID:** CAND-094
+**Current Title:** Cloud Infrastructure Engineer
+**Experience:** 9.1 years
+**Location:** Boston, MA
+**Education:** B.S. in Software Engineering, Georgia Tech
+
+## Skills
+Azure, Terraform, GitHub Actions, Docker, PowerShell, Monitoring
+
+## Professional Summary
+Results-oriented Cloud Infrastructure Engineer with 9.1 years of industry experience specializing in Azure, Terraform, GitHub Actions. Proven track record delivering reliable software systems and collaborating in Agile teams.
+
+## Work Experience
+
+### Cloud Infrastructure Engineer - PulsePoint Media (2022 - Present)
+- Designed and maintained enterprise web features utilizing Azure and Terraform.
+- Collaborated with cross-functional product and engineering teams to enhance performance and UX.
+- Automated unit testing and CI/CD pipelines to ensure code stability and release frequency.
+
+### Associate Cloud Infrastructure Engineer - Skyline Analytics (2019 - 2022)
+- Contributed to core product development with GitHub Actions.
+- Wrote unit tests and resolved critical customer defect tickets.
+
+## Key Projects
+- Built scalable Azure architecture reducing end-to-end latency by 24%.
+- Engineered microservices toolset integrating Terraform with cloud monitoring.

@@ -1,0 +1,6 @@
+{
+  "id": "JD-002",
+  "title": "Full Stack Cloud Engineer",
+  "department": "Platform Engineering",
+  "raw_text": "Job Title: Full Stack Cloud Engineer\nLocation: Remote or Hybrid\nExperience Required: 4+ years\n\nMust-Have Requirements:\n- 4+ years full stack development experience with React and Node.js or Python.\n- Proven experience with AWS cloud infrastructure (ECS, Lambda, S3, RDS).\n- Strong database skills with PostgreSQL or MySQL and Docker containerization.\n- Experience building and consuming RESTful and GraphQL APIs.\n\nNice-to-Have Requirements:\n- Experience with Kubernetes and Terraform infrastructure-as-code.\n- Knowledge of Redis caching and message queues (Kafka or RabbitMQ).\n- Microservices architectural design patterns."
+}

@@ -1,0 +1,6 @@
+{
+  "id": "JD-003",
+  "title": "AI / Machine Learning Engineer",
+  "department": "AI Innovation",
+  "raw_text": "Job Title: AI / Machine Learning Engineer\nExperience Required: 3+ years\n\nMust-Have Requirements:\n- 3+ years Python experience in machine learning or AI application development.\n- Hands-on experience with PyTorch, Scikit-Learn, or Hugging Face Transformers.\n- Experience with LLM orchestration (LangChain, LangGraph, or LlamaIndex) and Vector DBs.\n- Strong understanding of REST APIs, FastAPI, and Docker.\n\nNice-to-Have Requirements:\n- Experience deploying ML models to AWS SageMaker or Kubernetes.\n- Experience with agentic workflows and multi-step reasoning systems."
+}
