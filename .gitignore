@@ -47,3 +47,5 @@ Thumbs.db
 *.webm
 *.wav
 *.mp3
+*video*
+generate_presentation_video.py
